@@ -1,3 +1,5 @@
 venv/*
+!venv/*.placeholder
 TA_Lib/*
+!TA_Lib/*.placeholder
 Data/*.csv
